@@ -9,6 +9,7 @@ cycler==0.12.1
 debugpy==1.8.17
 decorator==5.2.1
 Django==5.2.7
+gunicorn>=21.2.0
 executing==2.2.1
 fastapi==0.119.1
 fonttools==4.60.1

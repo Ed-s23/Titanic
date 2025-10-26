@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-t_j&3t^go69&3&p_twz#oy6-j_h#geob27cy96wv!-qrpr6t@r
 DEBUG = True
 
 # !ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['predicciontitanic-eesd.onrender.com', 'localhost', '127.0.0.1']
+#ALLOWED_HOSTS = ['predicciontitanic-eesd.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

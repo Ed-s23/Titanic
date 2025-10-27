@@ -156,7 +156,9 @@ TEMPLATES = [
 
 # Archivos estáticos
 STATIC_URL = '/static/'
+
 STATICFILES_DIRS = [
-    BASE_DIR / 'predictor' / 'static',  # 👈 donde está tu CSS
+    BASE_DIR / 'predictor' / 'static',
 ]
+
 STATIC_ROOT = BASE_DIR / 'staticfiles'

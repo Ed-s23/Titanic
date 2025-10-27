@@ -12,6 +12,7 @@ Django==5.2.7
 executing==2.2.1
 fastapi==0.119.1
 fonttools==4.60.1
+gunicorn==23.0.0
 h11==0.16.0
 idna==3.11
 ipykernel==7.0.1
